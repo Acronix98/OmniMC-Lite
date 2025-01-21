@@ -1,2 +1,2 @@
 # OmniMC-Lite
-A OmniMC port.
+A client-side version of OmniMC.
