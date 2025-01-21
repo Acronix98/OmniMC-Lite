@@ -1,2 +1,2 @@
-# OmniMC-Lite
-A client-side version of OmniMC.
+# TA-Client-Lite
+A Lite version of TA Client.
