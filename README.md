@@ -1,2 +1,2 @@
 # TA-Client-Lite
-A Lite version of TA Client.
+The Lite version of TA Client.
